@@ -11,15 +11,15 @@ Solo descargando deberia de funcionar, pero si no lo hace asegurate de lo siguie
 asegurate de tener instalado en tu proyecto chart.js o la cdn
 
 ```bash
-    Chartjs-3.8.0.js (puede ser otra version) or <script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js" ></script>  
+<script src="https://cdn.jsdelivr.net/npm/chart.js@3.8.0/dist/chart.min.js" ></script>  
 ```
 también debes de tener en tu proyecto Bootstrap o usar la siguiente cdn
 ```bash 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 ```
     
 ## 🛠 Herramientas
-[![chartjs](https://img.shields.io/badge/Jquery-blue?style=for-the-badge&logo=jquery&logoColor=white)](https://www.chartjs.org/docs/latest/)
+[![chartjs](https://img.shields.io/badge/Chartjs-FE777B?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/docs/latest/)
 [![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
@@ -29,4 +29,4 @@ también debes de tener en tu proyecto Bootstrap o usar la siguiente cdn
 
 
 
-![Logo](https://alicenon.github.io/portafolio/assets/img/portfolio/crud-cat-1.png)
+[![Logo](https://alicenon.github.io/portafolio/assets/img/portfolio/crud-cat-1.png)](https://alicenon.github.io/mini-crud-cat/)
